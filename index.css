@@ -1,0 +1,87 @@
+h1
+{
+    color:red;
+}
+
+#conteneur
+{
+    width: 80%;
+    height: 1000px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.contenu
+{
+    height: 300px;
+    width: 300px;
+    border: 1px blue dashed;
+}
+
+#premier
+{
+    background-color: blueviolet;
+    flex:1;
+}
+
+#second
+{
+    background-color: brown;
+    flex: 2;
+}
+
+#troisieme
+{
+    background-color: burlywood;
+    flex: 3;
+}
+
+
+#quatrieme
+{
+    background-color: darkblue;
+}
+
+#cinquieme
+{
+    background-color: darkgray;
+}
+
+#sixieme
+{
+    background-color: darkgreen;
+}
+
+#septieme
+{
+    background-color: darkorchid;
+}
+
+#huitieme
+{
+    background-color: darkviolet;
+}
+
+#neuvieme
+{
+    background-color: fuchsia;
+}
+
+#dixieme
+{
+    background-color: gold;
+}
+
+#onzieme
+{
+    background-color: greenyellow;
+}
+
+#douzieme
+{
+    background-color: indigo;
+}
